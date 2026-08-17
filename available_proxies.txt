@@ -1,5 +1,3 @@
-https://t.me/proxy?server=Transfero.becbord.co.uk&port=7070&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=media6.happtg.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275
+https://t.me/proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 https://t.me/proxy?server=media8.happtg.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
-https://t.me/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
-https://t.me/proxy?server=proxyy.startnetwork.shop&port=443&secret=dd2be934a8a9ee10e16397981246715435
+https://t.me/proxy?server=www.gafe-arbal.ir&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s%3D
